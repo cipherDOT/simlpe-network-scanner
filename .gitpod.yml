@@ -1,0 +1,6 @@
+tasks
+
+  windows - pip install python-nmap
+  mac / linux - pip3 install python-nmap
+ 
+ 
